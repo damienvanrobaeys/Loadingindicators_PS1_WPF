@@ -1,5 +1,5 @@
 # Loadingindicators_PS1_WPF
-![alt text](https://4.bp.blogspot.com/-mnclHTrlw-c/XAmKnLe3WWI/AAAAAAAAJAE/KFJY0DWPPFIqmpbnZMgcxHdFciyh6eNsQCLcBGAs/s1600/radialmenu1gif.gif)
+![alt text](https://github.com/zeluisping/LoadingIndicators.WPF/raw/master/demo.gif)
 
 **Create cool progress indicator with PowerShell and WPF**
 
